@@ -1,5 +1,6 @@
 Call Centre (PowerBI)
 
+
 3 tables - 1 fact, 1 dimension, 1 measure
 7 explicit measures
 12 visualizations

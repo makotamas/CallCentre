@@ -8,7 +8,7 @@ I analyzed a fictious Call Center wich has a 30,000-row data source. I solved th
 4. **Average Call Duration in Minutes**: To assess the efficiency of our agents, we need to calculate and display the average call duration in minutes. This metric can help identify trends in call handling.
 5. **Response Time Percentige**: Response time is a critical factor in customer satisfaction. This KPI should display the percentage of calls answered within a perdefined time frame, helping us gauge our ability to provide promt service.
 
-Furthermore, my learning project contains:
+Furthermore, my learning project includes:
 
 - **3 tables**: 1 fact, 1 dimension, 1 measure
 
